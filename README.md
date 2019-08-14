@@ -7,6 +7,7 @@ Mainly for educational purposes
 ## Usage
 
 ``` cargo build ```
+
 ``` target/debug/rstock AAPL TSLA ```
 
 ## Testing
